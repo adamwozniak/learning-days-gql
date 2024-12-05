@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "joke": "Why did the chicken cross the road? To get to the other side!",
+        "author": {
+            "id": "1",
+            "name": "Anonymous"
+        }
+    },
+    {
+        "id": "2",
+        "joke": "Why did the chicken cross the playground? To get to the other slide!",
+        "author": {
+            "id": "1",
+            "name": "Anonymous"
+        }
+    },
+    {
+        "id": "3",
+        "joke": "Why did the chicken cross the road? To prove he wasn’t chicken!",
+        "author": {
+            "id": "2",
+            "name": "Adam W"
+        }
+    }
+]
